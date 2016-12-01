@@ -1,1 +1,1 @@
-hotelReservationNo~name~destination~NoOfAdults~NoOfChildren~checkInDate~checkOutDate~NoOfSingleRooms~NoOfDoubleRooms~currentPrice
+hotelReservationNo~name~destination~NoOfAdults~NoOfChildren~checkInDate~checkOutDate~NoOfSingleRooms~NoOfDoubleRooms~currentPrice~price
