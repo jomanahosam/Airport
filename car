@@ -1,1 +1,1 @@
-reservationNo~carType~pickUpLocation~pickUpDay~dropOfDay~pickUpTime~dropOfTime
+carReservationNo~carType~pickUpLocation~pickUpDay~dropOfDay~pickUpTime~dropOfTime
