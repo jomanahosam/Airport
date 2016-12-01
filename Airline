@@ -1,11 +1,11 @@
-name	flight	aircraft
+name¬flight¬aircraft
 
-SaudiAirlines	330	Airbus320
+SaudiAirlines¬330¬Airbus320
 
-QatarAirways	340	Airbus340
+QatarAirways¬340¬Airbus340
 
-EgyptAir	350	Boeing707
+EgyptAir¬350¬Boeing707
 
-AmericanAirlines	360	Boeing747(jumbo)
+AmericanAirlines¬360¬Boeing747(jumbo)
 
-EgyptAir	410	Boeing707
+EgyptAir¬410¬Boeing707
