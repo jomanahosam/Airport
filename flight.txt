@@ -1,0 +1,6 @@
+id~date~source~destination~passengerId~length~duration
+330~28/1/2017~Cairo~Dammam~27639~1879~2:40
+340~1/2/2017~Doha~Riyadh~39075~1290~1:30
+350~25/6/2017~Cairo~London~26549~2189~4:59
+360~25/3/2017~Egypt~chicago~30465~3101~13:22
+410~8/5/2017~Oman~luxor~27937~4095~3:55
